@@ -1,2 +1,2 @@
 # first-repository
-autor - ajay padalkar
+author - ajay padalkar
